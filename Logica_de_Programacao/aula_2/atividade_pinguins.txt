@@ -1,0 +1,24 @@
+Inicio de jogo
+
+filhote azul vai pro gelo
+pai azul vai pro gelo
+atravessa
+pai azul desce do gelo
+filhote azul atravessa sozinho
+filhote verde vai pro gelo
+atravessa
+filhote azul desce sozinho 
+filhote verde atravessa sozinho
+pai verde vai pro gelo
+atravessa
+pai verde desce
+filhote verde atravessa sozinho
+filhote vermelho vai pro gelo
+atravessa
+filhote verde desce
+filhote vermelho atravessa sozinho
+pai vermelho vai pro gelo
+atravessa
+pai vermelho desce
+filhote vermelho desce
+Fim de jogo

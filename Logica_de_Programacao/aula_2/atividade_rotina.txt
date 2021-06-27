@@ -1,0 +1,78 @@
+Inicio
+
+acordar
+levantar da cama
+colocar roupa
+escovar os dentes
+tomar café
+escovar os dentes
+por os tênis
+pegar chave de casa
+pegar controle do portão
+pegar carteira
+pegar mascara
+sair de casa
+descer as escadas
+sair do predio
+ir pro trabalho
+subir as escadas
+abrir meu armário
+guardar minhas coisas
+fechar meu armário
+andar até a maquina de bater ponto
+pegar meu crachá
+bater meu ponto
+trabalhar
+bater meu ponto 
+abrir meu armário
+pegar minhas coisas
+fechar o armário
+descer as escadas
+ir pra casa
+entrar no predio
+subir as escadas
+abrir a porta
+fechar a porta
+almoçar
+escovar os dentes
+pegar chave
+pegar controle do portão
+pegar mascara
+pegar carteira
+abrir a porta 
+fechar a porta
+descer as escadas
+sair do predio
+ir pro trabalho
+subir as escadas
+abrir meu armario
+guardar as coisas no armario
+fechar o armario
+pegar meu crachá
+bater o ponto
+trabalhar
+bater o ponto
+abrir o armário
+pegar minhas coisas
+fechar o armário
+descer as escadas
+ir pra casa
+entrar no prédio
+subir as escadas
+abrir a porta
+fechar a porta
+guardar minhas coisas
+tomar banho
+pegar notebook
+entrar na meeting
+estudar
+sair da meeting
+fazer os trabalhos
+organizar os trabalhos nas pastas
+subir para o GitHub
+fechar notebook
+guardar notebook
+jantar
+ir dormir
+
+Fim da rotina
